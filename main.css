@@ -1,0 +1,31 @@
+body
+{
+    margin:0px;
+    padding:0px;
+}
+	.buttons
+	{	
+		display:inline-block;
+		margin-left:5px;
+	}
+		.buttons .button
+		{
+			height: 20px;
+			padding: 0px 5px;
+			display: inherit;
+			text-align: center;
+			font-size:15px;
+			text-decoration: none;
+			font-weight: 700;
+			color: rgba(0,0,0,.6);
+			background: #eaeef1;
+			background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,.1));
+			border-radius: 3px;  
+			width: max-content;
+		}
+		
+	.buttons .button
+	{
+		margin-right: 2px;
+	}
+
